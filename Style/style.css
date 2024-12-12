@@ -91,12 +91,6 @@ main {
     border-radius: 8px;
 }
 
-.header-container{
-    width: 150px;
-    height: auto;
-    border: 1px #74320c;
-}
-
 footer {
     background-color: #74320c;
     color: #ffffff;
